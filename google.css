@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}u
+
+
+.google-container{
+    padding: 20px;
+    position: relative;
+
+}
+
+
+
+.image{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 600px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin-left: 360px;
+
+}
+
+.buttons{
+    margin-left: 550px;
+    margin-top: 15px;
+}
+
+.lucky{
+    margin-left: 12px;
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.search{
+    margin-left: 12px;
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    border: none;
+}
